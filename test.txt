@@ -1,5 +1,5 @@
 hiii helllo 
-hello 
+hello welcome
 git init
 git add remote origin "link"
 git add . or git add file name
