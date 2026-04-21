@@ -1,2 +1,7 @@
-hiii 
+hiii helllo 
 hello 
+git init
+git add remote origin "link"
+git add . or git add file name
+git commit -m "message" git stash
+git push origin branch name
